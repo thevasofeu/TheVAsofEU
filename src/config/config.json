@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "The VAs of EU | Your Home Office like in the EU",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "base_url": "https://thevasofeu.online",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
