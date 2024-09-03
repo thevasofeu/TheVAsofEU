@@ -12,8 +12,8 @@
   },
 
   "settings": {
-    "pagination": 5,
-    "summary_length": 100
+    "pagination": 7,
+    "summary_length": 107
   },
 
   "metadata": {
@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Since © '24 a theme by [Themefisher](https://themefisher.com)"
   },
 
   "contactinfo": {
